@@ -3,14 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.n52.sandbox</groupId>
     <artifactId>release-test</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
         <connection>scm:git:git://github.com/ridoo/release-sandbox.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/ridoo/release-sandbox.git</developerConnection>
         <url>https://github.com/ridoo/release-sandbox</url>
-      <tag>release-test-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
